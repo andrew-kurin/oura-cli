@@ -1,0 +1,8 @@
+# Binary
+oura
+
+# Secrets
+config.json
+token.json
+credentials.json
+*.secret
